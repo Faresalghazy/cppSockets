@@ -35,13 +35,6 @@ This project serves as a learning endeavor and a Proof of Concept (PoC) for a ba
 https://github.com/Faresalghazy/cppSockets/assets/19968713/62e35422-ed79-4dcb-83ad-600d508a1831
 
 
-
-## Learning Objectives
-
-- Understanding the basics of socket programming in C++.
-- Exploring client-server architecture and communication.
-- Implementing multi-threading for handling concurrent client connections.
-
 ## Disclaimer
 
 This project is for educational purposes and serves as a basic demonstration of socket communication concepts. It is not intended for production use.
