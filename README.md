@@ -32,6 +32,10 @@ This project serves as a learning endeavor and a Proof of Concept (PoC) for a ba
    - To start a read client, enter `2`.
 3. Follow the on-screen instructions for each option.
 
+https://github.com/Faresalghazy/cppSockets/assets/19968713/62e35422-ed79-4dcb-83ad-600d508a1831
+
+
+
 ## Learning Objectives
 
 - Understanding the basics of socket programming in C++.
